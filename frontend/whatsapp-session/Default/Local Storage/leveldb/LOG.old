@@ -1,0 +1,6 @@
+2025/10/14-16:42:43.951 238c Reusing MANIFEST C:\Wentrite Technologies\Vite Project\Whatsapp\frontend\whatsapp-session\Default\Local Storage\leveldb/MANIFEST-000001
+2025/10/14-16:42:43.973 238c Recovering log #38
+2025/10/14-16:42:43.987 238c Reusing old log C:\Wentrite Technologies\Vite Project\Whatsapp\frontend\whatsapp-session\Default\Local Storage\leveldb/000038.log 
+2025/10/14-16:44:44.475 2e34 Level-0 table #42: started
+2025/10/14-16:44:44.494 2e34 Level-0 table #42: 13194 bytes OK
+2025/10/14-16:44:44.499 2e34 Delete type=0 #38

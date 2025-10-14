@@ -1,0 +1,54 @@
+2025/10/14-16:57:53.060 43fc Reusing MANIFEST C:\Wentrite Technologies\Vite Project\Whatsapp\frontend\whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/14-16:57:53.063 43fc Recovering log #3121
+2025/10/14-16:57:53.105 43fc Reusing old log C:\Wentrite Technologies\Vite Project\Whatsapp\frontend\whatsapp-session\Default\IndexedDB\https_web.whatsapp.com_0.indexeddb.leveldb/003121.log 
+2025/10/14-16:57:54.551 4738 Level-0 table #3133: started
+2025/10/14-16:57:54.630 4738 Level-0 table #3133: 457007 bytes OK
+2025/10/14-16:57:54.635 4738 Delete type=0 #3121
+2025/10/14-16:57:54.645 4738 Manual compaction at level-0 from ' \x93\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x94\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/14-16:57:57.425 4738 Compacting 1@1 + 8@2 files
+2025/10/14-16:57:57.731 4738 Generated table #3134@1: 89730 keys, 2240806 bytes
+2025/10/14-16:57:58.053 4738 Generated table #3135@1: 47828 keys, 2233990 bytes
+2025/10/14-16:57:58.102 4738 Generated table #3136@1: 2017 keys, 2145167 bytes
+2025/10/14-16:57:58.163 4738 Generated table #3137@1: 2348 keys, 2152563 bytes
+2025/10/14-16:57:58.396 4738 Generated table #3138@1: 28177 keys, 2235382 bytes
+2025/10/14-16:57:58.540 4738 Generated table #3139@1: 10222 keys, 2134414 bytes
+2025/10/14-16:57:58.766 4738 Generated table #3140@1: 101686 keys, 2253690 bytes
+2025/10/14-16:57:58.995 4738 Generated table #3141@1: 99315 keys, 2250672 bytes
+2025/10/14-16:57:59.001 4738 Generated table #3142@1: 367 keys, 28772 bytes
+2025/10/14-16:57:59.001 4738 Compacted 1@1 + 8@2 files => 17675456 bytes
+2025/10/14-16:57:59.002 4738 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/10/14-16:57:59.003 4738 Delete type=2 #3123
+2025/10/14-16:57:59.003 4738 Delete type=2 #3124
+2025/10/14-16:57:59.003 4738 Delete type=2 #3125
+2025/10/14-16:57:59.004 4738 Delete type=2 #3126
+2025/10/14-16:57:59.004 4738 Delete type=2 #3127
+2025/10/14-16:57:59.004 4738 Delete type=2 #3128
+2025/10/14-16:57:59.004 4738 Delete type=2 #3129
+2025/10/14-16:57:59.004 4738 Delete type=2 #3130
+2025/10/14-16:57:59.005 4738 Delete type=2 #3133
+2025/10/14-16:58:23.159 43fc Level-0 table #3144: started
+2025/10/14-16:58:23.282 43fc Level-0 table #3144: 234273 bytes OK
+2025/10/14-16:58:23.302 43fc Delete type=0 #3132
+2025/10/14-16:58:23.320 43fc Manual compaction at level-0 from ' \x94\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' \x95\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/14-16:58:25.751 7f8 Compacting 1@1 + 9@2 files
+2025/10/14-16:58:26.141 7f8 Generated table #3145@1: 89655 keys, 2240441 bytes
+2025/10/14-16:58:26.362 7f8 Generated table #3146@1: 47762 keys, 2233436 bytes
+2025/10/14-16:58:26.405 7f8 Generated table #3147@1: 2743 keys, 2147840 bytes
+2025/10/14-16:58:26.453 7f8 Generated table #3148@1: 2340 keys, 2153555 bytes
+2025/10/14-16:58:26.587 7f8 Generated table #3149@1: 28086 keys, 2233371 bytes
+2025/10/14-16:58:26.686 7f8 Generated table #3150@1: 8339 keys, 2134056 bytes
+2025/10/14-16:58:26.905 7f8 Generated table #3151@1: 102369 keys, 2254408 bytes
+2025/10/14-16:58:27.124 7f8 Generated table #3152@1: 100377 keys, 2250943 bytes
+2025/10/14-16:58:27.135 7f8 Generated table #3153@1: 951 keys, 64000 bytes
+2025/10/14-16:58:27.135 7f8 Compacted 1@1 + 9@2 files => 17712050 bytes
+2025/10/14-16:58:27.138 7f8 compacted to: files[ 0 0 9 0 0 0 0 ]
+2025/10/14-16:58:27.139 7f8 Delete type=2 #3134
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3135
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3136
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3137
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3138
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3139
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3140
+2025/10/14-16:58:27.140 7f8 Delete type=2 #3141
+2025/10/14-16:58:27.141 7f8 Delete type=2 #3142
+2025/10/14-16:58:27.141 7f8 Delete type=2 #3144
