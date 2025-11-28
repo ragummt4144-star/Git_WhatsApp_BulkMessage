@@ -2,9 +2,15 @@ pipeline {
     agent any
 
     stages {
-        stage('Build & Test') {
+        stage('Install') {
             steps {
-                bat 'echo Hello from Jenkins'
+                bat 'npm install'
+            }
+        }
+
+        stage('Test') {
+            steps {
+                bat 'npm test'
             }
         }
     }
