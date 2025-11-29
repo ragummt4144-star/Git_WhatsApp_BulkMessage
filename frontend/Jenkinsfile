@@ -1,18 +1,17 @@
 pipeline {
-  agent any
+    agent any
 
-  environment {
-    CODACY_PROJECT_TOKEN = credentials('CODACY_PROJECT_TOKEN_ID')
-  }
+    stages {
+        stage('Install') {
+            steps {
+                bat 'npm install'
+            }
+        }
 
-  stages {
-    stage('Codacy analysis') {
-      steps {
-        bat '''
-          codacy-analysis-cli analyze --directory . \
-            --project-token $CODACY_PROJECT_TOKEN
-        '''
-      }
+        stage('Test') {
+            steps {
+                bat 'npm test'
+            }
+        }
     }
-  }
 }
