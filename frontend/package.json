@@ -8,7 +8,8 @@
     "dev:electron": "cross-env VITE_DEV_SERVER_URL=http://localhost:5173 electron .",
     "build": "npm run build:main && npm run build:renderer",
     "build:main": "tsc",
-    "build:renderer": "vite build"
+    "build:renderer": "vite build",
+    "test": "echo \"No tests yet\""
   },
   "dependencies": {
     "fs-extra": "^11.2.0",
